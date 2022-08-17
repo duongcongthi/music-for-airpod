@@ -1,5 +1,5 @@
 {
-"disableClosePurchase": false
-"disableOnboarding": false
+"disableClosePurchase": false,
+"disableOnboarding": false,
 "youtubeAPIKey": "AIzaSyAt87lPUiwsNPy0LzAcUhupBKAVRmdpj3Q"
 }
